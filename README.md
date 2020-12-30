@@ -1,3 +1,5 @@
+# ainda não terminado(em desenvolvimento...)
+
 # portfolio
 Praticando HTML, CSS e javascript, criando um simples portfolio.
 
